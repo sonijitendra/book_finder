@@ -1,4 +1,4 @@
-# Tinor – Local Shop Product Finder (Full‑Stack Web App)
+# Tinor – Book Finder (Full‑Stack Web App)
 
 Tinor helps customers locate nearby shops that have a desired product **in stock**, view pricing & expiry,
 and optionally pre‑book the item.  Shopkeepers manage their inventory through a separate dashboard.
